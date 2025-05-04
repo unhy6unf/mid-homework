@@ -8,4 +8,3 @@
 *   무료 호스팅
 
 즐거운 연휴 되세요. ᓚᘏᗢ
-theme: jekyll-theme-minimal
